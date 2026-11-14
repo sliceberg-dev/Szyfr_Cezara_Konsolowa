@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Net.Mime.MediaTypeNames;
 
-// Prosty program implementujący szyfr Cezara (kodowanie/dekodowanie)
+
 Console.WriteLine("Szyfr Cezara");
 
 Console.Write("Podaj tekst: ");
